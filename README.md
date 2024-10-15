@@ -15,7 +15,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [goQuality](https://github.com/Integerous/goQuality)
+### 1. (예시) [goQuality](https://github.com/Integerous/goQuality)
 >고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
 >개발 기간: 2019.2.18 ~ 2019.4.5  
 >  
