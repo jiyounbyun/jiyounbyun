@@ -10,7 +10,7 @@
 
 ## :pushpin: Contact
 - 이메일: ellie0219@naver.com
-- 깃헙: https://github.com/integerous
+- 깃헙: https://github.com/jiyounbyun
 
 </br>
 
